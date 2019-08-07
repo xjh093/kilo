@@ -10,3 +10,5 @@ step 1:[The main() function](https://github.com/xjh093/kilo/blob/master/step/ste
 step 2:[Compiling with make](https://github.com/xjh093/kilo/blob/master/step/step02.md)
 
 step 3:[read keypresses from the user](https://github.com/xjh093/kilo/blob/master/step/step03.md)
+
+step 4:[Press q to quit?](https://github.com/xjh093/kilo/blob/master/step/step04.md)
