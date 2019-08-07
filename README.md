@@ -4,4 +4,6 @@
 ---
 
 # 184 steps
-coming soon...
+
+[step 1](https://github.com/xjh093/kilo/blob/master/step/step01.md)
+
