@@ -7,3 +7,4 @@
 
 step 1:[The main() function](https://github.com/xjh093/kilo/blob/master/step/step01.md)
 
+step 2:[Compiling with make](https://github.com/xjh093/kilo/blob/master/step/step02.md)
