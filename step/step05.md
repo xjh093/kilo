@@ -2,7 +2,7 @@
 
 kilo.c:
 ```
-#include <termios.h>
+#include <termios.h> // new line
 #include <unistd.h>
 
 void enableRawMode() {
@@ -16,7 +16,7 @@ void enableRawMode() {
 }
 
 int main(){
-    enableRawMode();
+    enableRawMode(); // new line
 	
     char c;
     while (read(STDIN_FILENO, &c, 1) == 1 && c != 'q');
