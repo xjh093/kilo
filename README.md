@@ -15,4 +15,6 @@ step 4:[Press q to quit?](https://github.com/xjh093/kilo/blob/master/step/step04
 
 step 5:[Turn off echoing](https://github.com/xjh093/kilo/blob/master/step/step05.md)
 
-step 6:[Disable raw mode at exit]()
+step 6:[Disable raw mode at exit](https://github.com/xjh093/kilo/blob/master/step/step06.md)
+
+step 7:[Turn off canonical mode]()
