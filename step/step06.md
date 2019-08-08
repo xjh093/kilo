@@ -2,21 +2,21 @@
 
 kilo.c:
 ```
-#include <stdlib.h>
+#include <stdlib.h> // new line
 #include <termios.h>
 #include <unistd.h>
 
-struct termios orig_termios;
+struct termios orig_termios; // new line
 
 void disableRowMode() {
     tcsetattr(STDIN_FILENO, TCSAFLUSH, &orig_termios);
 }
 
 void enableRawMode() {
-    tcgetattr(STDIN_FILENO, &orig_termios);
-    atexit(disableRowMode);
+    tcgetattr(STDIN_FILENO, &orig_termios); // new line
+    atexit(disableRowMode); // new line
 
-    struct termios raw = orig_termios;
+    struct termios raw = orig_termios; // modified
 
     tcgetattr(STDIN_FILENO, &raw);
     raw.c_lflag &= ~(ECHO);
