@@ -33,3 +33,4 @@ int main(){
 }
 ```
 
+`atexit()` comes from `<stdlib.h>`. We use it to register our `disableRawMode()` function to be called automatically when the program exits, whether it exits by returning from `main()`, or by calling the `exit()` function. This way we can ensure we’ll leave the terminal attributes the way we found them when our program exits.
