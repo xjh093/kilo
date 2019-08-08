@@ -2,11 +2,11 @@
 
 kilo.c:
 ```
-#include <unistd.h>
+#include <unistd.h> // new line
 
 int main(){
-  char c;
-  while (read(STDIN_FILENO, &c, 1) == 1);
+  char c;  // new line
+  while (read(STDIN_FILENO, &c, 1) == 1);  // new line
   return 0;
 }
 ```
