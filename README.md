@@ -19,3 +19,5 @@ step 6:[Disable raw mode at exit](https://github.com/xjh093/kilo/blob/master/ste
 
 step 7:[Turn off canonical mode](https://github.com/xjh093/kilo/blob/master/step/step07.md)
 
+step 8:[Display keypresses]()
+
