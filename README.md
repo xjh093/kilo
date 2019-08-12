@@ -19,5 +19,6 @@ step 6:[Disable raw mode at exit](https://github.com/xjh093/kilo/blob/master/ste
 
 step 7:[Turn off canonical mode](https://github.com/xjh093/kilo/blob/master/step/step07.md)
 
-step 8:[Display keypresses]()
+step 8:[Display keypresses](https://github.com/xjh093/kilo/blob/master/step/step08.md)
 
+step 9:[Turn off Ctrl-C and Ctrl-Z signals]()
