@@ -22,3 +22,6 @@ step 7:[Turn off canonical mode](https://github.com/xjh093/kilo/blob/master/step
 step 8:[Display keypresses](https://github.com/xjh093/kilo/blob/master/step/step08.md)
 
 step 9:[Turn off Ctrl-C and Ctrl-Z signals](https://github.com/xjh093/kilo/blob/master/step/step09.md)
+
+step 10:[Disable Ctrl-S and Ctrl-Q](https://github.com/xjh093/kilo/blob/master/step/step10.md)
+
