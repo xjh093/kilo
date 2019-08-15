@@ -26,3 +26,5 @@ step 9:[Turn off Ctrl-C and Ctrl-Z signals](https://github.com/xjh093/kilo/blob/
 step 10:[Disable Ctrl-S and Ctrl-Q](https://github.com/xjh093/kilo/blob/master/step/step10.md)
 
 step 11:[Disable Ctrl-V](https://github.com/xjh093/kilo/blob/master/step/step11.md)
+
+step 12:[Fix Ctrl-M](https://github.com/xjh093/kilo/blob/master/step/step12.md)
