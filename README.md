@@ -33,3 +33,9 @@ step 13:[Turn off all output processing](https://github.com/xjh093/kilo/blob/mas
 
 step 14:[\r](https://github.com/xjh093/kilo/blob/master/step/step14.md)
 
+step 15:[Miscellaneous flags](https://github.com/xjh093/kilo/blob/master/step/step15.md)
+
+
+
+
+
