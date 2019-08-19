@@ -31,3 +31,5 @@ step 12:[Fix Ctrl-M](https://github.com/xjh093/kilo/blob/master/step/step12.md)
 
 step 13:[Turn off all output processing](https://github.com/xjh093/kilo/blob/master/step/step13.md)
 
+step 14:[\r](https://github.com/xjh093/kilo/blob/master/step/step14.md)
+
