@@ -28,3 +28,6 @@ step 10:[Disable Ctrl-S and Ctrl-Q](https://github.com/xjh093/kilo/blob/master/s
 step 11:[Disable Ctrl-V](https://github.com/xjh093/kilo/blob/master/step/step11.md)
 
 step 12:[Fix Ctrl-M](https://github.com/xjh093/kilo/blob/master/step/step12.md)
+
+step 13:[Turn off all output processing](https://github.com/xjh093/kilo/blob/master/step/step13.md)
+
