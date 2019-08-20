@@ -35,6 +35,7 @@ step 14:[\r](https://github.com/xjh093/kilo/blob/master/step/step14.md)
 
 step 15:[Miscellaneous flags](https://github.com/xjh093/kilo/blob/master/step/step15.md)
 
+step 16:[A timeout for read()](https://github.com/xjh093/kilo/blob/master/step/step16.md)
 
 
 
