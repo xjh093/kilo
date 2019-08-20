@@ -39,4 +39,5 @@ step 16:[A timeout for read()](https://github.com/xjh093/kilo/blob/master/step/s
 
 step 17:[Error handling](https://github.com/xjh093/kilo/blob/master/step/step17.md)
 
+step 18:[die()](https://github.com/xjh093/kilo/blob/master/step/step18.md)
 
