@@ -37,6 +37,6 @@ step 15:[Miscellaneous flags](https://github.com/xjh093/kilo/blob/master/step/st
 
 step 16:[A timeout for read()](https://github.com/xjh093/kilo/blob/master/step/step16.md)
 
-
+step 17:[Error handling](https://github.com/xjh093/kilo/blob/master/step/step17.md)
 
 
